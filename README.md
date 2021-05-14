@@ -1,5 +1,5 @@
 # Submission-ML-Pemula
-This project is created machine learning model to complete course Belajar ML Pemula on Dicoding
+This project is create machine learning model to complete course Belajar ML Pemula on Dicoding
 
 # Library that i used
 1. Zipfile
