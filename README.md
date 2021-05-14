@@ -11,3 +11,4 @@ This project is a machine learning model to completed course Belajar ML Pemula o
 7. Matplotlib
 
 # Dataset that i used
+https://dicodingacademy.blob.core.windows.net/picodiploma/ml_pemula_academy/rockpaperscissors.zip
