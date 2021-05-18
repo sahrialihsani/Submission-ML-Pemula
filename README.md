@@ -1,4 +1,4 @@
-# Submission-ML-Pemula
+# Submission-ML-Pemula (Got 5 Stars)
 This project is create machine learning model to complete course Belajar ML Pemula on Dicoding
 
 # Library that i used
